@@ -1,2 +1,2 @@
-# learn-python
-Learn the Python programming langage
+# learn-python3
+Learn the Python 3.x programming langage
