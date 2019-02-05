@@ -1,4 +1,4 @@
-# maths
+# math
 
 ## Operators
 ```
