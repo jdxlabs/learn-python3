@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 nb = 42
 print(nb)
