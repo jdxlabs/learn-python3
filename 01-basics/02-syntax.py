@@ -41,9 +41,12 @@ print('r1 : ' + z + ' ' + i)
 # That's a program that sets rules about code writing
 # and ensures they are respected in your code
 
-# You can install pylint, and check your file is complient
+# You can install pylint, and check your file is compliant
 #  $ pip install pylint
-#  $ pylint 01-basics/02-syntax.py
+#  $ pylint 01-basics
+
+# When you will create python modules, you can launch the command like that
+#  $ pylint <folder-or-file-name-for-my-modules> --ignore <some>,<folders>
 
 # You can refer to the PEP8 coding standards
 # https://www.python.org/dev/peps/pep-0008/
@@ -55,8 +58,9 @@ print('r1 : ' + z + ' ' + i)
 # or here : https://pep8.readthedocs.io/en/latest/intro.html#configuration
 
 # The best option would be to install a pylint checker on your favorite text editor or IDE
-# to check direclty if the code don't follow the rule you want
+# to check directly if the code don't follow the rule you want
 # for instance for VSCode : https://code.visualstudio.com/docs/python/linting
+# or PyCharm : https://plugins.jetbrains.com/plugin/11084-pylint
 
+# That's it, now you can continue to the next lessons
 
-# That's it, now you can continue the next lessons
