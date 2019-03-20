@@ -63,4 +63,3 @@ print('r1 : ' + z + ' ' + i)
 # or PyCharm : https://plugins.jetbrains.com/plugin/11084-pylint
 
 # That's it, now you can continue to the next lessons
-
