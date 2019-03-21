@@ -12,7 +12,7 @@
 
 
 # if you execute :
-#   $ python 01-basics/02-syntax.py
+#   $ python3 01-basics/02-syntax.py
 
 # you will see "Hello world !" in the output
 # because of this line
@@ -42,16 +42,16 @@ print('r1 : ' + z + ' ' + i)
 # and ensures they are respected in your code
 
 # You can install pylint, and check your file is compliant
-#  $ pip install pylint
+#  $ pip3 install pylint
 #  $ pylint 01-basics
 
 # When you will create python modules, you can launch the command like that
 #  $ pylint <folder-or-file-name-for-my-modules> --ignore <some>,<folders>
 
-# You can refer to the PEP8 coding standards
+# Pylint refers to the PEP8 coding standards
 # https://www.python.org/dev/peps/pep-0008/
 
-# and eventually set exceptions
+# You can eventually set exceptions
 # on files with : `#pylint disable ..options`
 # or on projects with a `.pylintrc` file
 # all exceptions are described here : https://pylint.org/
@@ -62,4 +62,5 @@ print('r1 : ' + z + ' ' + i)
 # for instance for VSCode : https://code.visualstudio.com/docs/python/linting
 # or PyCharm : https://plugins.jetbrains.com/plugin/11084-pylint
 
-# That's it, now you can continue to the next lessons
+
+# That's it, now you can continue to the next lessons !
