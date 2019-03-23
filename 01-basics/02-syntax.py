@@ -34,7 +34,13 @@ print('r1 : %s %d' % (x, y))
 # or like this, that is less recommended for readability
 # and only works for strings
 # but you must know both writings exist
-print('r1 : ' + z + ' ' + i)
+print('r1 : '+z+' '+i)
+
+
+# to follow the courses,
+# you can execute the files, by typing : python <my-file>.py
+# or execute the code in the interpreter, by just typing : python
+# you can experiment by writing and modifying the code by yourself.
 
 
 # At this point, you should yet consider to use a "linter"
