@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
-test = "this is a test"
-print(test)
+# you can write text surrounded by "" or ''
+text = "this is a test"
+print(text)
 
-type(test)
-# <class 'str'>
+print(type(text))
+#   <class 'str'>
