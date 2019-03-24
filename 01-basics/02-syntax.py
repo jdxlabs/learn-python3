@@ -32,7 +32,7 @@ print("r1 : %s %d" % (x, y))
 # and %d for "decimals"
 
 # or like this, that is less recommended for readability
-# and concatenation only works for strings (for numbers it make obviously additions)
+# and concatenation only works for strings (for numbers, it makes obviously additions)
 print("r1 : " + z + " " + i)
 
 
