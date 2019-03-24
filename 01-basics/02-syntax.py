@@ -6,9 +6,9 @@
     if you need multiple lines
 """
 
-# So now, you can describe your code as you want
+# so now, you can describe your code as you want
 
-# And I will use the comments to describe the further lessons
+# and I will use the comments to describe the further lessons
 
 
 # if you execute :
@@ -16,31 +16,33 @@
 
 # you will see "Hello world !" in the output
 # because of this line
-print('Hello world !')
+print("Hello world !")
 
 # you can set variables like this
-x = 'a'
+x = "a"
 y = 2
-z = 'c'
-i = 'd'
+z = "c"
+i = "d"
 
 # and concatenate them in the output
 # like this
-print('r1 : %s %d' % (x, y))
+print("r1 : %s %d" % (x, y))
 
-# %s for 'strings'
-# and %d for 'decimals'
+# %s for "strings"
+# and %d for "decimals"
 
 # or like this, that is less recommended for readability
-# and only works for strings
-# but you must know both writings exist
-print('r1 : '+z+' '+i)
+# and concatenation only works for strings (for numbers it make obviously additions)
+print("r1 : " + z + " " + i)
 
 
-# to follow the courses,
-# you can execute the files, by typing : python <my-file>.py
-# or execute the code in the interpreter, by just typing : python
-# you can experiment by writing and modifying the code by yourself.
+# You can execute the files, by typing :
+#   $ python <my-file>.py
+
+# or execute the code in the interpreter, by just typing :
+#   $ python
+
+# You can experiment by writing and modifying the code by yourself.
 
 
 # At this point, you should yet consider to use a "linter"
