@@ -12,5 +12,5 @@ because it is a multi-paradigm language,
 it will let you explore a lot of different patterns.  
 
 Have fun with this language,  
-may this lessons help you in the path to masterize Python
+may this lessons help you in the path to masterize Python  
 and to create amazing things with it.  
