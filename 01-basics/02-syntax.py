@@ -24,16 +24,21 @@ y = 2
 z = "c"
 i = "d"
 
-# and concatenate them in the output
-# like this
-print("r1 : %s %d" % (x, y))
+# and concatenate them in the output like this
+print("r1 : {} {}".format(x, y))
 
+# you can also concatenate like this
+print("r1 : %s %d" % (x, y))
 # %s for "strings"
 # and %d for "decimals"
 
 # or like this, that is less recommended for readability
 # and concatenation only works for strings (for numbers, it makes obviously additions)
 print("r1 : " + z + " " + i)
+
+# for better explanation about concatenation
+# you can refer to this excellent article :
+# https://realpython.com/python-string-formatting/#4-template-strings-standard-library
 
 
 # You can execute the files, by typing :
