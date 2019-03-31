@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 
 # you can use the while loop
-# be carrefull to not create infinite loops with it
+# be careful to not create infinite loops with it
 x = 1
 while x <= 3:
     print(x)
     x += 1
 
 # # you can use the break statement
-# to conditionnaly exit the loop
+# to conditionally exit the loop
 x = 1
 while x <= 3:
     print(x)
@@ -17,7 +17,7 @@ while x <= 3:
     x += 1
 
 # or the continue statement
-# to conditionnaly go to the next iteration of the loop
+# to conditionally go to the next iteration of the loop
 x = 1
 while x <= 20:
     x += 1
