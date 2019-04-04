@@ -1,14 +1,24 @@
 #!/usr/bin/env python3
 
-# Lists are ...
+# A list is a collection which is ordered and changeable,
+# it allows duplicate members.
+
+# Changeable means that, once a list is created :
+# - you can change its values
+# - you can add or remove items to it
 
 # you can make a list like this
 mylist = ["blue", "green", "yellow"]
 print(mylist)
 
-# or using the list constructor
+print(type(mylist))
+#   <class 'list'>
+
+# or using the constructor
 mylist = list(("blue", "green", "yellow"))
 print(mylist)
+
+# TODO
 
 # access an item
 print(mylist[0])
