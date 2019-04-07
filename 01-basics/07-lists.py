@@ -25,12 +25,46 @@ print(mylist[0])
 mylist[0] = "orange"
 print(mylist[0])
 
-# xxx loop
+# loop
+for x in mylist:
+    print(x)
+
+# check if item exists
+if "green" in mylist:
+    print(True)
+
+# length
+print(len(mylist))
 
 # add an item
 mylist.append("red")
 print(mylist)
 
+# add an item at a specific index
+mylist.insert(3, "blue")
+print(mylist)
+
 # remove an item
 mylist.remove("yellow")
 print(mylist)
+
+# remove an item at a specific index
+# (or last item if not specified)
+mylist.pop(3)
+print(mylist)
+
+# or like this
+del mylist[2]
+print(mylist)
+
+# the list can be deleted completely
+del mylist
+
+# here are other methods than can be applied to lists
+# clear() : to remove all the items in the list
+# copy() : to get a copy of the list
+# count("value") : to get the nb of items with the specified value
+# extend(iterable) : to add a list (or any iterable) to the end of the list
+# index("value") : to get the index of the
+# reverse() : to reverse the list
+# sort() : to sort the list
