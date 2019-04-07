@@ -18,10 +18,14 @@ print(type(mylist))
 mylist = list(("blue", "green", "yellow"))
 print(mylist)
 
-# TODO
-
 # access an item
 print(mylist[0])
+
+# change an item value
+mylist[0] = "orange"
+print(mylist[0])
+
+# xxx loop
 
 # add an item
 mylist.append("red")
