@@ -18,21 +18,25 @@ print(type(mytuple))
 mytuple = tuple(("john", "joe", "jenny"))
 print(mytuple)
 
-# TODO
-
-# you can select in item
+# select an item
 print(mytuple[1])
 
-# you can iterate the items
+# iterate the items
 for item in mytuple:
     print(item)
 
-# you can check if an item exists
+# check if an item exists
 if "joe" in mytuple:
     print("ok")
 
-# you can retrieve the number of items
+# retrieve the number of items
 print(len(mytuple))
 
-# you can delete the tuple
+# you cannot add, modify or delete items
+
+# you can still delete the tuple
 del mytuple
+
+# here are other methods than can be applied to tuples
+# count("value") : to get the nb of items with the specified value
+# index("value") : to get the index of the item

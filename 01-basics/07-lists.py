@@ -57,7 +57,7 @@ print(mylist)
 del mylist[2]
 print(mylist)
 
-# the list can be deleted completely
+# you can delete the list
 del mylist
 
 # here are other methods than can be applied to lists
@@ -65,6 +65,6 @@ del mylist
 # copy() : to get a copy of the list
 # count("value") : to get the nb of items with the specified value
 # extend(iterable) : to add a list (or any iterable) to the end of the list
-# index("value") : to get the index of the
+# index("value") : to get the index of the item
 # reverse() : to reverse the list
 # sort() : to sort the list
