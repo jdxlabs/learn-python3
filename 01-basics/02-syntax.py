@@ -36,6 +36,10 @@ print("r1 : %s %d" % (x, y))
 # and concatenation only works for strings (for numbers, it makes obviously additions)
 print("r1 : " + z + " " + i)
 
+# since python 3.6, you can use the f-Strings
+# which is now my favorite option, when conditions allow it
+print(f"r1 : {x} {y}")
+
 # for better explanation about concatenation
 # you can refer to this excellent article :
 # https://realpython.com/python-string-formatting/#4-template-strings-standard-library
