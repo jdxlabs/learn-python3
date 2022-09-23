@@ -18,7 +18,8 @@ may this lessons help you in the path to masterize Python
 and to make amazing things with it.  
 
 
-> *Like a kung fu master, a Pythonista knows how to kill with a single finger, and never to actually do it.* ([The Hitchhiker’s Guide to Python](https://docs.python-guide.org/))
+> *Like a kung fu master, a Pythonista knows how to kill with a single finger, and never to actually do it.* ([The Hitchhiker’s Guide to Python].  
+https://docs.python-guide.org/)
 
 
 Complementary resources:
