@@ -24,5 +24,3 @@ and to make amazing things with it.
 Complementary resources:
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org)
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
-* [My wiki page for Python](https://jdxlabs.com/notes/python)
-
