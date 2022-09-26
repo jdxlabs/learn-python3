@@ -1,6 +1,6 @@
 # Learn the Python 3.x programming langage
 
-> *Like a kung fu master, a Pythonista knows how to kill with a single finger, and never to actually do it.
+> Like a kung fu master, a Pythonista knows how to kill with a single finger, and never to actually do it.
 
 Python is a very concise and efficient language,  
 it allows you to work in different domains :  
