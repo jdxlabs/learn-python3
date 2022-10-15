@@ -22,5 +22,3 @@ and to make amazing things with it.
 Complementary resources:
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org)
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
-
-edited
