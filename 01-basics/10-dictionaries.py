@@ -73,3 +73,7 @@ print(mydict3)
 # clear() : to remove all the items in the dictionary
 # fromkeys(keys, value) : returns a dictionary from keys and value
 # get(key) : to get value from key
+# setdefault(key, value) : returns value if key exists, if not, insert key with value
+# update(key, value) : to update the dictionary with the key/value pairs from another dictionary
+# values() : returns a list of all the values in the dictionary
+# popitem() : removes the last inserted key-value pair
