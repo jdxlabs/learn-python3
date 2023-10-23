@@ -6,13 +6,12 @@ brew install pipenv
 ```
 
 ```bash
-# Create the Pipfile
+# Inititiate the Pipfile (or install all packages)
 pipenv install
 
-# You can install packages, or edit Pipfile directly
+# You can install packages (or edit Pipfile directly)
 pipenv install requests
 pipenv install numpy
-
 
 # Activate/Deactivate the venv
 pipenv shell  # and Ctrl + D to quit
