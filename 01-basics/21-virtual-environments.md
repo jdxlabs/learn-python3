@@ -12,5 +12,4 @@ There are different ways to create virtual environments:
 If you use Pyenv, you can also use [Pyenv-Virtualenv](https://github.com/pyenv/pyenv-virtualenv) to create a virtual environment, that allows to switch between different venvs direclty coupled with Pyenv.
 This plugin isn't necessary, you can use the other libraries, even if you use Pyenv.
 
-
-You will find some examples in the next section "02-pip-module", for Venv, Pipenv and Pyenv-Virtualenv.
+You will find some examples in the next section.
