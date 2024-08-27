@@ -23,6 +23,3 @@ def caracters():
 
 if __name__ == '__main__':
     app.run(port=3000, debug=True)
-
-# Command to launch Flash on port 3000 :
-# flask run --port=3000 --host=0.0.0.0 --with-threads --reload --debugger --no-reload
