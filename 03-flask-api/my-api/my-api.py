@@ -14,9 +14,9 @@ def caracters():
             "Luke",
             "Leia",
             "Han",
-            "Chewbacca",
+            "Chewi",
             "Darth",
-            "Obi-Wan",
+            "Obi",
         ]
     })
 
